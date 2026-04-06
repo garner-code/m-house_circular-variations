@@ -13,10 +13,10 @@ In each trial, participants are shown 20 doors arranged in two circles (8 inner,
 | Stage | Name | Trials | Description |
 |-------|------|--------|-------------|
 | 1 | Learning | 200 per house | Participants learn two house layouts with structured target locations |
-| 2 | Training | 160 | Contexts alternate at either a 5 % or 30 % switch rate (group-dependent) |
+| 2 | Training | 160 | Contexts alternate at either a 5% or 30% switch rate (group-dependent) |
 | 3 | Transfer Test | 120 | Performance tested on novel, permuted, and composite configurations |
 
-**Progression Criterion**: participants must achieve ≥ 90 % accuracy (find the target within 6 clicks) over the last 60 trials of each stage before advancing.
+**Progression Criterion**: participants must achieve ≥ 90% accuracy (find the target within 6 clicks) over the last 60 trials of each stage before advancing.
 
 ---
 
@@ -155,8 +155,8 @@ door_prob | target_flag | 0 | x_coord | y_coord
 ### Stage 2 — Training
 
 - Two contexts alternate; switch probability depends on group assignment
-  - **Group 1**: 5 % switch rate
-  - **Group 2**: 30 % switch rate
+  - **Group 1**: 5% switch rate
+  - **Group 2**: 30% switch rate
 - Maximum score: 28 000 points (250 per optimal trial)
 
 ### Stage 3 — Transfer Test
@@ -171,7 +171,7 @@ No performance feedback or rewards are given during the transfer test.
 
 ### Scoring and badges
 
-Points per trial = max(7 − number\_of\_clicks\_to\_find\_target, 0).  
+Points per trial = max(7 - number\_of\_clicks\_to\_find\_target, 0).  
 Motivational badges are awarded at cumulative point thresholds: **Bronze** → **Silver** → **Gold** → **Champion**.
 
 ---
