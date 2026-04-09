@@ -1,3 +1,5 @@
+# README 
+
 ## to-do
 - code to fully sanity check tranfer learning counterbalancing
 - check we have enough trials in each stage
